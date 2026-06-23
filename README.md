@@ -15,28 +15,31 @@ It includes light/dark mode toggle, hover effects, and smooth fade-in animations
 - Smooth fade-in animations
 - Fully responsive layout 
 
----
+---## Objective
+Fix a broken pricing card component, improve its layout and responsiveness, and refactor it into a reusable component using Cursor AI.
 
-##  Built With
 
-- HTML5
-- CSS3 (Flexbox + animations)
-- Vanilla JavaScript
+##AI prompt used;
 
----
+Analyze this pricing card component.
 
-##  Preview
+1. Identify all HTML, CSS, and accessibility issues.
+2. Fix layout bugs and make the button responsive.
+3. Refactor the code into a reusable component called Card(title, price, features).
+4. Return the complete corrected code.
+5. Explain what bugs were fixed.
 
-> Toggle theme button switches between light and dark mode  
-> Cards animate on page load with a fade-in effect
 
----
+   ##Improvements
+   Fixed HTML syntax errors.
+Corrected CSS properties.
+Added responsive design using max-width.
+Improved button styling and hover effects.
+Added border radius and box shadow.
+Refactored into a reusable Card(title, price, features) component.
 
-##  How to Run
 
-1. Clone the repo:
-```bash
-git clone https://github.com/Tiffany-seriani/product-gallery.git
+
 
 ## author
 tiffany seriani
