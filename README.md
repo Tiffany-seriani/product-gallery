@@ -30,7 +30,8 @@ Analyze this pricing card component.
 5. Explain what bugs were fixed.
 
 
-   ##Improvements
+   Improvements;
+
    Fixed HTML syntax errors.
 Corrected CSS properties.
 Added responsive design using max-width.
